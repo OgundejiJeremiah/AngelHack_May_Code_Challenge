@@ -5,4 +5,4 @@ May Challenge
 
 - All challenges have a readme file and an implementation file coded in JavaScript.
 
--The files are named according to the date the challenge was released.
+- The files are named according to the date the challenge was released.
